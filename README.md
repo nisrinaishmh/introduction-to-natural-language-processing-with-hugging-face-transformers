@@ -14,7 +14,7 @@
 
 **Nama:** Nisrina Ishmah Mahira🧕
 
-**Program:** IBM Advance Al [Kampus Merdeka Batch 6 Tahun 2024]🏫🎉
+**Program:** IBM Academy - Advance Al [Kampus Merdeka Batch 6 Tahun 2024]🏫🎉
 
 ### Tech Stack💻
 

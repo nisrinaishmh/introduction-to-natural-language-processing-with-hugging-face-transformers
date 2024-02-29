@@ -6,7 +6,7 @@
 
 ### Mentee Assignment📝📂
 
-**Task for mentee IBM Advance AI @ Infinite Learning Course**🎓
+**Task for Mentee from IBM Advance AI Mentor @ Infinite Learning Course**🎓
 
 **Completed Course:** Practice and Introduction to Natural Language Processing with Hugging Face Transformers LLM from CognitiveClass.ai🔭🛸
 
